@@ -1,4 +1,4 @@
-name: Generate Snake
+﻿name: Generate Snake
 
 on:
   schedule:
@@ -15,9 +15,10 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Houria-hs
+          github_user_name: manmathan6305
           outputs: |
-           dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FFB7D5&color_dots=%230D1117,%23291B2C,%236F2D5C,%23D16BA5,%23F8BBD0
+            dist/github-contribution-grid-snake.svg?palette=github
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2322D3EE&color_dots=%230D1117,%230F172A,%231E3A5F,%230891B2,%2322D3EE
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
