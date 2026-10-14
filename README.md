@@ -219,4 +219,5 @@ A web-based project focused on presenting a mental-health-related prediction app
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:22D3EE&height=120&section=footer" width="100%" alt="Footer Banner"/>
-</p>   
+</p>   #   m a n m a t h a n 6 3 0 5 -  
+ 
