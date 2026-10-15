@@ -107,7 +107,7 @@ status   : Open to Internships & Opportunities
 <summary><b>Programming Languages</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp&theme=dark" alt="Programming Languages"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -139,13 +139,13 @@ status   : Open to Internships & Opportunities
 <summary><b>Backend and Databases</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" alt="Backend Stack"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql&theme=dark" alt="Backend Stack"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Springboot-FF6B6B?style=flat-square&logo=springboot&logoColor=white" alt="Springboot"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
