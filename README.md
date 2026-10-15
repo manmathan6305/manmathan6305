@@ -48,6 +48,28 @@
 
 ---
 
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manmathan6305&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github" height="170" alt="GitHub Statistics"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmathan6305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0&langs_count=8" height="170" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manmathan6305&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=22D3EE&ring=8B5CF6&fire=F59E0B&currStreakNum=22D3EE&currStreakLabel=8B5CF6&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B" width="82%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/manmathan6305">
+    <img src="https://ghchart.rshah.org/22D3EE/manmathan6305" width="100%" alt="Contribution Activity Graph"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6D28D9,100:3B82F6&height=2&section=header" width="100%"/>
+
+---
+
 ## About Me
 
 <table>
@@ -89,6 +111,40 @@ status   : Open to Internships & Opportunities
 **Sharpening** Data Structures, Algorithms and OOP foundations daily
 
 <br/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6D28D9,100:3B82F6&height=2&section=header" width="100%"/>
+
+---
+
+## Experience and Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Work Experience
+
+**Frontend / Full Stack Developer Intern**
+Crayon'D — Remote
+March – May 2025
+
+- Built and maintained frontend and full-stack features
+- Collaborated with a 5-member development team
+- Worked on production web application workflows
+
+</td>
+<td width="50%" valign="top">
+
+### Certifications
+
+- **Oracle Java SE 17** — Java Certification
+- **HackerRank** — Java (Basic)
+- **HackerRank** — Frontend Developer (React)
+- **IBM SkillsBuild** — Web Development Fundamentals
 
 </td>
 </tr>
@@ -304,62 +360,6 @@ status   : Open to Internships & Opportunities
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6D28D9,100:3B82F6&height=2&section=header" width="100%"/>
-
----
-
-## Experience and Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Work Experience
-
-**Frontend / Full Stack Developer Intern**
-Crayon'D — Remote
-March – May 2025
-
-- Built and maintained frontend and full-stack features
-- Collaborated with a 5-member development team
-- Worked on production web application workflows
-
-</td>
-<td width="50%" valign="top">
-
-### Certifications
-
-- **Oracle Java SE 17** — Java Certification
-- **HackerRank** — Java (Basic)
-- **HackerRank** — Frontend Developer (React)
-- **IBM SkillsBuild** — Web Development Fundamentals
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6D28D9,100:3B82F6&height=2&section=header" width="100%"/>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manmathan6305&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github" height="170" alt="GitHub Statistics"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmathan6305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0&langs_count=8" height="170" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manmathan6305&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=22D3EE&ring=8B5CF6&fire=F59E0B&currStreakNum=22D3EE&currStreakLabel=8B5CF6&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B" width="82%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/manmathan6305">
-    <img src="https://ghchart.rshah.org/22D3EE/manmathan6305" width="100%" alt="Contribution Activity Graph"/>
-  </a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6D28D9,100:3B82F6&height=2&section=header" width="100%"/>
 
