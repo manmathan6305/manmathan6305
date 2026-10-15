@@ -1,4 +1,4 @@
-﻿<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║         MANMATHAN S — GITHUB PROFILE README             ║ -->
 <!-- ║   Aspiring Full Stack Developer | Tamil Nadu, India     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
@@ -6,9 +6,9 @@
 <!-- ░░░░░░░░░░░░░  HERO BANNER — FUTURISTIC HEADER  ░░░░░░░░░░░░░ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="art/header-banner.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:6D28D9,100:22D3EE&height=220&section=header&text=MANMATHAN%20S&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=62&descSize=20">
-  <img src="art/header-banner.jpg" width="100%" alt="Manmathan S — Aspiring Full Stack Developer"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="art/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:6D28D9,100:22D3EE&height=150&section=header&text=MANMATHAN%20S&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=62&descSize=20">
+  <img src="art/header-dark.png" width="100%" alt="Manmathan S — Aspiring Full Stack Developer"/>
 </picture>
 
 <!-- Animated Typing SVG -->
@@ -114,7 +114,6 @@ status   : Open to Internships & Opportunities
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 <br/>
@@ -130,7 +129,6 @@ status   : Open to Internships & Opportunities
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 </p>
@@ -147,6 +145,7 @@ status   : Open to Internships & Opportunities
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Springboot-FF6B6B?style=flat-square&logo=springboot&logoColor=white" alt="Springboot"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
