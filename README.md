@@ -52,7 +52,7 @@
 
 <table>
 <tr>
-<td width="39%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <br/>
 
