@@ -88,9 +88,6 @@ status   : Open to Internships & Opportunities
 
 <img src="art/profile-photo.jpg" width="220" alt="Manmathan S — Profile Photo"/>
 
-<br/>
-<sub><b>Replace art/profile-photo.jpg with your actual photograph</b></sub>
-
 <br/><br/>
 
 </td>
