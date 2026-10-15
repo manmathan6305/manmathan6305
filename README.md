@@ -189,7 +189,7 @@ status   : Open to Internships & Opportunities
 ## Featured Projects
 
 <a href="https://github.com/MANMATHAN6305/Hostal_Management_Portal">
-  <img src="art/project-hostel.jpg" width="100%" alt="Hostel Management Portal"/>
+  <img src="art/project-hostel.jpg" width="100%" height="396" alt="Hostel Management Portal"/>
 </a>
 
 <table>
@@ -232,7 +232,7 @@ status   : Open to Internships & Opportunities
 <br/>
 
 <a href="https://github.com/MANMATHAN6305/RealAIResumeBuilder">
-  <img src="art/project-ai-resume.jpg" width="100%" alt="AI Resume Builder"/>
+  <img src="art/project-ai-resume.jpg" width="100%" height="396" alt="AI Resume Builder"/>
 </a>
 
 <table>
@@ -272,7 +272,7 @@ status   : Open to Internships & Opportunities
 <br/>
 
 <a href="https://github.com/MANMATHAN6305/Mental_Health_Prediction">
-  <img src="art/project-mental-health.jpg" width="100%" alt="Mental Health Prediction"/>
+  <img src="art/project-mental-health.jpg" width="100%" height="396" alt="Mental Health Prediction"/>
 </a>
 
 <table>
