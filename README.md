@@ -97,21 +97,6 @@ location : Tamil Nadu, India
 focus    : Full Stack Web Development
 status   : Open to Internships & Opportunities
 ```
-
-<br/>
-
-**Currently building** full-stack applications with modern web technologies
-
-**Actively learning** advanced backend patterns, APIs and AI integrations
-
-**Passionate about** solving real-world problems with practical software
-
-**Career goal** - Skilled Software Engineer contributing to impactful products
-
-**Sharpening** Data Structures, Algorithms and OOP foundations daily
-
-<br/>
-
 </td>
 </tr>
 </table>
