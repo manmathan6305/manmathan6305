@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="art/header-banner.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:6D28D9,100:22D3EE&height=220&section=header&text=MANMATHAN%20S&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=62&descSize=20">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:6D28D9,100:22D3EE&height=150&section=header&text=MANMATHAN%20S&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=62&descSize=20">
   <img src="art/header-banner.jpg" width="100%" alt="Manmathan S — Aspiring Full Stack Developer"/>
 </picture>
 
