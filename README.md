@@ -359,7 +359,9 @@ March – May 2025
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manmathan6305&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&area_color=6D28D9&hide_border=true&custom_title=Manmathan%20Contribution%20Graph" width="100%" alt="Contribution Activity Graph"/>
+  <a href="https://github.com/manmathan6305">
+    <img src="https://ghchart.rshah.org/22D3EE/manmathan6305" width="100%" alt="Contribution Activity Graph"/>
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6D28D9,100:3B82F6&height=2&section=header" width="100%"/>
