@@ -52,7 +52,16 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="38%" align="center" valign="middle">
+
+<br/>
+
+<img src="art/profile-photo.png" width="220" alt="Manmathan S — Profile Photo"/>
+
+<br/><br/>
+
+</td>
+<td width="62%" valign="top">
 
 <br/>
 
@@ -80,15 +89,6 @@ status   : Open to Internships & Opportunities
 **Sharpening** Data Structures, Algorithms and OOP foundations daily
 
 <br/>
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<br/>
-
-<img src="art/profile-photo.jpg" width="220" alt="Manmathan S — Profile Photo"/>
-
-<br/><br/>
 
 </td>
 </tr>
